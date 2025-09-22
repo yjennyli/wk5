@@ -37,13 +37,6 @@ figcaption {
     margin-top: 10px;
     font-style: italic;
 }
-
-/* #about h2,
-#gallery h2,
-footer {
-    display: none;
-} */
-
 main {
     display: flex;
     flex-direction: column;
